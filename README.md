@@ -5,3 +5,5 @@ Install TamperMonkey on selected browser
 Change settings mode to advanced
 Make a new script and copy and paste the txt file for your version.
 This repository is an unofficial Archive for the Krunker Central hacks which are hard to get to.
+
+Warning, This may ban your account, use at your own risk
