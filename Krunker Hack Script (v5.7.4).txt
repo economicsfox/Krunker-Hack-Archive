@@ -6,6 +6,9 @@
 // @version      1.24
 // @match        https://krunker.io/*
 // @match        https://*.browserfps.com/*
+// @match        https://poki.com/en/g/krunker-io
+// @match        https://www.crazygames.com/game/krunker-io
+// @match        https://s3.amazonaws.com/crazygames-unblocked/game/krunker-io
 // @run-at       document-start
 // @noframes
 // ==/UserScript==
