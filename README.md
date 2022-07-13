@@ -3,7 +3,9 @@ An archieve of Krunker hacks from Krunker Central (Youtube)
 
 Install TamperMonkey on selected browser
 Opera: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
+
 Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
 Change settings mode to advanced in tampermonkey
