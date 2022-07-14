@@ -1,22 +1,27 @@
 # Krunker-Hack-Archive
-An archive of Krunker hacks from Krunker Central (Youtube). The official Krunker Central Page is often bloated with Pop-ups and ads. You even have to subscribe to the channel to download the files, This is an unofficial, Modified version of the mod.
+An archive of Krunker hacks, pre compiled from 
+
+https://github.com/y9x/webpack
+
+The official Krunker Central Page is often bloated with Pop-ups and ads. And compiling the webpack (above⬆️) also takes time. This is a un-official and modified version of the webpack, that (hopefully) will not be detected by the Krunker police.
 
 Install TamperMonkey on selected browser
+
 Opera: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
 
 Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 
-Change settings mode to advanced in tampermonkey
+Change the mode to "Advanced" in Tampermonkey
 
 Make a new script and copy and paste the .txt file for your version.
 
 Go to Krunker.io and click on settings.
 
-Go to "Cheats" and select "Junker"
+Go to "Cheats" (under the setttings tab) and select "Junker"
 
-Click on the page that says "Junk"
+exit and click on the page that says "Junk"
 
 Modify the settings to your liking
 
