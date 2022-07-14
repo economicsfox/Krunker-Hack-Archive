@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Krunker Cheat Loader
 // @namespace    https://forum.sys32.dev/
-// @icon         https://y9x.github.io/webpack/libs/gg.gif
+// @icon         https://github.com/economicsfox/Krunker-Hack-Archive/blob/d1bd2217ff37696431d3f8530c24b2016abb14b9/icon/logo.png
 // @license      gpl-3.0
 // @version      1.24
 // @match        https://krunker.io/*
